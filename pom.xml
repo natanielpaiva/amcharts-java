@@ -3,7 +3,6 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.stekoe</groupId>
     <artifactId>amcharts</artifactId>
-    <version>3.0.0</version>
     <packaging>jar</packaging>
     <name>amcharts</name>
     <url>http://maven.apache.org</url>
@@ -38,4 +37,5 @@
             <version>2.2.4</version>
         </dependency>
     </dependencies>
+    <version>3.0.1-SNAPSHOT</version>
 </project>
