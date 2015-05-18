@@ -1,4 +1,4 @@
-# amcharts-java
+# amcharts-java [![Build Status](https://travis-ci.org/natanielpaiva/amcharts-java.svg?branch=3.0.0)](https://travis-ci.org/natanielpaiva/amcharts-java)
 
 Java API for the awesome Charts Package amChartsv3 (http://www.amcharts.com).
 The Version of this API corresponds to the Version of amCharts.
